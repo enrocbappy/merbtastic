@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
