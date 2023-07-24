@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Cleanup Docs languages (#7865)
