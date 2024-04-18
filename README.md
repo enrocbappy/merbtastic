@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Add C++ Classify inference example (#6868)
